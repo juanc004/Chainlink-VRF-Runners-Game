@@ -86,3 +86,7 @@ For comprehensive documentation, community support, and additional resources, ex
 - **Hackathon**: Get involved in "Block Magic", our next hackathon. [Sign up here](https://chn.lk/3xjhPDy).
 - **Learning Resources**: Access all session recordings on [Luma](https://lu.ma/ChainlinkBootcamp2024) and download the slides [here](https://docs.google.com/presentation/d/e/2PACX-1vSnf4bZHTmpZW8s_PKwkS2wT0ZbHmMygg1JKGlvElaS9G0v9wA5kUr_8sJbkGEJZ5cM6y6a3U0a_5t1/pub?start=false&loop=false&delayms=3000).
 - **LINK Faucets**: For LINK tokens and additional support, visit [Chainlink Faucets](https://faucets.chain.link).
+
+## Watch the Tutorial
+
+For a detailed walkthrough of this project, watch our [YouTube tutorial](https://www.youtube.com/watch?v=dch8NW4-acw).
