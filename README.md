@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 ### Step 2: VRF Subscription
 
 - **Create a Chainlink VRF Subscription**:
-  - Visit the [Chainlink VRF page]([https://vrf.chain.link/](https://vrf.chain.link/)) and connect your MetaMask wallet.
+  - Visit the [Chainlink VRF page](https://vrf.chain.link/) and connect your MetaMask wallet.
   - Choose the Fuji network and create a new subscription.
   - **Fund your subscription** with 3 LINK tokens and record your subscription ID for later use.
 
